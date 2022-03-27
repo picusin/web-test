@@ -27,7 +27,7 @@ Type I error rate of 5%.
 
 2. The A/B test fails to reject the null hypothesis, with a p-value of 0.9046. The graph below shows the mean difference between the probability for converting for 'treatment' and 'control' groups for a 10000 random sample. The red line indicates the actual difference observed in the original dataset.
 
-![Mean difference distribution](/images/fig1.jpg)
+![Mean difference distribution](/images/fig01.jpg)
 
 ## Logistic Regression
 
